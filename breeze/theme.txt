@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2016 Harald Sitter <sitter@kde.org>
 # SPDX-License-Identifier: GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL
+# Forked 01.06.2025 glenn.greenfield@protonmail.com
 
 # paperwhite - #fcfcfc
 # icongrey - #4d4d4d
