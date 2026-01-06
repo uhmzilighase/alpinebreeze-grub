@@ -13,8 +13,7 @@ title-font: "Unifont Regular 14"
 message-font: "Unifont Regular 14"
 message-color: "#7f8c8d"
 message-bg-color: "#4d4d4d" # TODO: whatever is this for?
-desktop-color: "#000000" # black
-
+desktop-image: "background.jpg"
 # title
 # NOTE: can't put this in a vbox because GRUB is crap and item highlighting
 #   is broken if you put the boot_menu in a vbox...
